@@ -1,0 +1,23 @@
+img {
+    width: 50%;
+    border-radius: 44px;
+    transform: rotate(90deg);
+}
+img{
+	width: 50%;
+    border-radius: 1px;
+    transform: rotate(0deg)
+}
+h1 {
+	background-image: url(https://images.squarespace-cdn.com/content/v1/51c748abe4b0c275d0aa86bf/1519583293011-9J71BR5YXZSGTQ7BIZSY/bugs-and-celementines-for-squarespace.gif?format=1500w);
+	padding: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	color: orange;
+}
+body{
+	background: rgb(255,143,0);
+background: linear-gradient(90deg, rgba(255,143,0,1) 0%, rgba(255,109,0,0.7637648809523809) 50%, rgba(252,104,69,1) 100%);
+
+}
